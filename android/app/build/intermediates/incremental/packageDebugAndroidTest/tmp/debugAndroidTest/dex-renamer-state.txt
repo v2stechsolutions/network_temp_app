@@ -1,0 +1,7 @@
+#Mon Apr 22 18:47:33 IST 2024
+base.0=/Users/prashant/Documents/Prashant/General/New/networkplatform-mobile-app/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/prashant/Documents/Prashant/General/New/networkplatform-mobile-app/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/1/classes.dex
+path.0=0/classes.dex
+path.1=1/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

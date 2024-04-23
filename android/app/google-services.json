@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2905567075",
+    "project_id": "rmb-sobo",
+    "storage_bucket": "rmb-sobo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2905567075:android:213af89752a83247e1ad56",
+        "android_client_info": {
+          "package_name": "com.v2stech.networking.rmbsobo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWG_sVp0cJnn29zthszbIAIo1yD9psVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
