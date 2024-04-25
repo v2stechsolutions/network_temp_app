@@ -8,4 +8,5 @@ export const PATH = {
   CHAPTER_REPORT: 'chapterreport',
   SCHEDULED_MEETING: 'scheduledmeeting',
   MANAGE_REFERENCE: 'managereference',
+  NOTIFICATION: 'Notifications'
 };

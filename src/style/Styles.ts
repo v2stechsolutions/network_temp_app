@@ -8,6 +8,7 @@ export const Styles = StyleSheet.create({
   headerView: {
     backgroundColor: COLORS.WHITE,
     height: verticalScale(50),
+    paddingHorizontal: 20
   },
   headerTilte: {
     fontSize: moderateScale(17),
@@ -26,6 +27,12 @@ export const Styles = StyleSheet.create({
     marginVertical: verticalScale(15),
     textAlign: CENTER,
   },
+  icon: {
+    width: 24,
+    height: 24,
+    resizeMode: "center",
+    tintColor: COLORS.PRIMARY
+  }
 });
 
 export const MeetingCardStyle = StyleSheet.create({
